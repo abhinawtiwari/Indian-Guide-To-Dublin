@@ -16,7 +16,7 @@ Trinity College Dublin (TCD) and University College Dublin (UCD) are the best on
 # Jobs
 Most Indians in Dublin work in Tech and nursing. I would be surprised if you visit a tech office and not see an Indian. Similarly, a substantial Indian population of Kerala origin work in nursing.
 # Pay
-Levels.fyi offers pay reliable pay related information for tech jobs.
+Refer https://www.levels.fyi/t/software-engineer/locations/greater-dublin-area for reliable pay related information for tech jobs.
 # Send money home
 There are many ways to send money home but I have been using Aspora for a while. Aspora has been the best so far. It's no advertisement by the way, just my personal experience. Your first transfer is free, and you earn €25 when you send €1000+ total.
 
@@ -27,7 +27,7 @@ South of Dublin is usually considered the nicest and safest to live.
 Portobello, Rathmines, Ranelagh, Irishtown, Ballsbridge are personal favorites.
 
 # Rentals
-Daft.ie for house hunting.
+https://www.daft.ie/ for house hunting.
 
 # Groceries
 For regular groceries, following are the go to places -

@@ -1,4 +1,8 @@
-## Indian-Guide-To-Dublin
+# About me
+I am Abhinaw. I came to Dublin a few years ago. This guide is my effort to help others, especially Indians, with firsthand information and insights about this place.
+
+You can connect with me on LinkedIn at https://www.linkedin.com/in/abhinawtiwari/
+You can buy me a coffee at https://revolut.me/abhinaw
 
 # Good Universities for Master's
 TCD, UCD, etc.

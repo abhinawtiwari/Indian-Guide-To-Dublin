@@ -94,9 +94,10 @@ Hospital delays
 
 # Temples
 ISCKON temple
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2381.7111330083!2d-6.26333892311924!3d53.34842697228987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e8463ea9bcf%3A0xc8b8cf91c8256bc3!2sISKCON%20Dublin%20Krishna%20Temple!5e0!3m2!1sen!2sie!4v1764507246506!5m2!1sen!2sie" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+[![ISCKON temple](./isckon.png)](https://maps.app.goo.gl/HVmJG5NFU8YPNEzw7)
 
 Gurudwara
+[![Gurudwara](./gurudwara.png)](https://maps.app.goo.gl/q73Bnc4Q7kux98Tm6)
 
 # Food
 - Indian restaurants

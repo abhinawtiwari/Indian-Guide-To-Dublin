@@ -60,22 +60,35 @@ In India, we aren't used to street names so much. We have street names there, bu
 # Travel
 As an Indian citizen on Irish residence permit card, you don't automatically get access to other EU countries or Schengen area. This is a huge disadvantage I feel. You are pretty much landlocked in this country on IRP card. To enter other countries, you need to go through a separate visa process.
 
-- e-visa: Morocco
-- Visa: Schengen, US, UK
-- Embassy area
+- e-visa: as an Indian, you can get an e-visa to countries like Morocco.
+- Visa: Schengen, US, UK visas need to be applied separately. 
+
+Embassy area: embassies of other countries are very conveniently located around Dublin 4.
   
 # Safety
-Places to avoid or be careful at - Tallaght.
+## Personal safety
+Places to avoid or be careful at - Tallaght. <br>
+Bike theft: bike theft is unfortunate but common here. So, better to be safe than sorry. <br>
+Teenage laws: criminal laws for under 18 Irish citizens are usually loose. This is not a legal advice but I would stay away from them.<br>
 
-Bike theft <br>
-Teenage laws <br>
+## Road safety
+Ireland has similar road safety rules like India. It's also easier because Ireland also follows the stay on left side rule.
+
+There are bike lanes if you cycle. There are safety standards for bikes too, like lights, high-visibility vests, helmet etc.
+# Driving license
+If you are habituated to drive two-wheelers in India, Ireland's weather may not be the most suitable for it.
+
+International permit issued from India can help you drive a car here for a year. Beyond that, you need an Irish driving license.
 # Geography
+Ireland has four seasons: winter, spring, summer, and autumn. For meteorological purposes, they are defined as follows: winter (December to February), spring (March to May), summer (June to August), and autumn (September to November). 
 
 # Health and fitness
 Gym, Swimming, jogging, home exercises
 
 # Medical system
-hospitals <br>
+No offense to anyone but Indian medical system is far ahead of Ireland.
+
+Hospitals: James hospital, Crumlin hospital <br>
 GPs, <br>
 insurance: Laya, VHI <br>
 Hospital delays

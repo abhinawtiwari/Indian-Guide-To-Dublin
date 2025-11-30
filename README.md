@@ -1,8 +1,10 @@
 # About me
 I am Abhinaw. I came to Dublin a few years ago. This guide is my effort to help others, especially Indians, with firsthand information and insights about this place.
 
-You can connect with me on LinkedIn at https://www.linkedin.com/in/abhinawtiwari/
-You can buy me a coffee at https://revolut.me/abhinaw
+You can connect with me on LinkedIn at https://www.linkedin.com/in/abhinawtiwari/. Please don't hesitate to DM for appointments.
+
+You can buy me a coffee at 
+Revolut: https://revolut.me/abhinaw
 
 # Good Universities for Master's
 TCD, UCD, etc.
@@ -64,7 +66,9 @@ Hospital delays
 # Indian community
 - Festivals/Events
 
-Temples
+# Temples
+ISCKON temple
+Gurudwara
 
 # Food
 - Indian restaurants

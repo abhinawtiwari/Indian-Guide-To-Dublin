@@ -48,6 +48,8 @@ But others work part-time at all sorts of places - Circle K, Spar, Lidl, Tesco, 
 # Commute
 Leap card is advisable as soon as you land here. As a student, you get 50% discount on all your commutes using leap card.<br>
 
+More on leap card [here](https://about.leapcard.ie/).
+
 Common modes of commute are Dublin Bus, Luas, Dart, Commuter, Rail <br>
 
 There are long journey trains from Heuston station in Dublin, taking you to other cities like Galway.
@@ -83,29 +85,43 @@ International permit issued from India can help you drive a car here for a year.
 Ireland has four seasons: winter, spring, summer, and autumn. For meteorological purposes, they are defined as follows: winter (December to February), spring (March to May), summer (June to August), and autumn (September to November). 
 
 # Health and fitness
-Gym, Swimming, jogging, home exercises
-
+Gym, Swimming, jogging, home exercises <br>
+Swim centeres: Swan Leisure. More later.
 # Medical system
-No offense to anyone but Indian medical system is far ahead of Ireland.
+Medicines
+- Pharmacy
+- Other stores like Lidl sell paracetamols, vitamins and other nutrional supplements.
 
-Hospitals: James hospital, Crumlin hospital <br>
-GPs, <br>
-insurance: Laya, VHI <br>
-Hospital delays
+Finding a General Practioner (GP) https://www2.hse.ie/services/find-a-gp/ <br>
+
+Getting Flu vaccine: https://www2.hse.ie/services/find-a-vaccine/?kind=adult-flu-vaccine
+
+Hospitals: Many hospitals are there such as James hospital, Crumlin hospital etc. <br>
+
+Insurance: Laya, VHI are a few of the popular providers.<br>
+
+Hospital delays: It's common to face delays in treatment at the hospitals here. More on this later.
 
 # Cultural differences
 - Food differences
 - lifestyle differences
 
 # Indian Embassy
-- Address and contact
+## Address and contact: 
+Address: 69 Merrion Rd, Ballsbridge, Dublin-4, Co. Dublin, D04 ER85
+Emergency contact: 0899423734, cons.dublin@mea.gov.in
+
+## Events
 - Independence Day celebration
-- services: passport renewal
+
+## Services
+- Passport renewal
 
 # Indian community
 - Festivals/Events
 
 # Temples
+VHCC todo <br>
 ISCKON temple
 [![ISCKON temple](./isckon.png)](https://maps.app.goo.gl/HVmJG5NFU8YPNEzw7)
 
@@ -113,8 +129,8 @@ Gurudwara
 [![Gurudwara](./gurudwara.png)](https://maps.app.goo.gl/q73Bnc4Q7kux98Tm6)
 
 # Food
-- Indian restaurants
-- Indian stores: Mini India in Westmoreland Street
+- Indian restaurants todo
+- Indian stores: Mini India in Westmoreland Street. More later.
 
 # Leisure
 - Movies: Cineplex in the city center, Rathmines cinema complex

@@ -6,6 +6,7 @@ Revolut: https://revolut.me/abhinaw
 
 You can connect with me on LinkedIn at https://www.linkedin.com/in/abhinawtiwari/. Please don't hesitate to DM for paid appointments.
 
+I have also created a video series on YouTube, available at https://www.youtube.com/playlist?list=PLH_4qIEY5Eyh5H4C1fUG6R45jcOTjfRLD
 # Good Universities for Master's
 Trinity College Dublin (TCD) and University College Dublin (UCD) are the best ones. <br> There are others such as 
 - National College of Ireland (NCI), 
@@ -36,11 +37,14 @@ Lidl, Aldi, Tesco, Spar, Centra etc.
 Google, Amazon, Microsoft, Stripe, Meta <br>
 Mastercard, AIB, PTSB <br>
 IBM <br>
-Pinterest, Sony Playstation, Workday, ServiceNow, Salesforce
+Pinterest, Sony Playstation, Workday, ServiceNow, Salesforce, JP Morgan
 
 There are many more. I just listed a few I have come across closely.
-# Visa progression
+# Visa 
+## Visa progression
 Master's route: Stamp 2 -> Stamp 1G -> Stamp 1 -> Stamp 4
+## IRP renewal
+https://inisonline.jahs.ie/home
 # Part-time
 I worked part-time for just 2 weeks at a Cirlce K's Deli. I quickly realized it wasn't for me. I pivoted to teaching part-time during my master's.
 
@@ -65,11 +69,11 @@ As an Indian citizen on Irish residence permit card, you don't automatically get
 - e-visa: as an Indian, you can get an e-visa to countries like Morocco.
 - Visa: Schengen, US, UK visas need to be applied separately. 
 
-Embassy area: embassies of other countries are very conveniently located around Dublin 4.
+Embassy area: embassies of other countries are very conveniently located around Dublin 2 and 4.
   
 # Safety
 ## Personal safety
-Places to avoid or be careful at - Tallaght. <br>
+Places to avoid or be careful at - Tallaght, Citywest. <br>
 Bike theft: bike theft is unfortunate but common here. So, better to be safe than sorry. <br>
 Teenage laws: criminal laws for under 18 Irish citizens are usually loose. This is not a legal advice but I would stay away from them.<br>
 
@@ -136,4 +140,4 @@ Gurudwara
 - Movies: Cineplex in the city center, Rathmines cinema complex
 
 # Buying a house
-
+Will add once I get 10 stars on this repo.

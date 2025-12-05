@@ -19,7 +19,7 @@ Most Indians in Dublin work in Tech and nursing. I would be surprised if you vis
 # Pay
 Refer https://www.levels.fyi/t/software-engineer/locations/greater-dublin-area for reliable pay related information for tech jobs.
 # Send money home
-There are many ways to send money home but I have been using Aspora for a while. Aspora has been the best so far. It's no advertisement by the way, just my personal experience. Your first transfer is free, and you earn €25 when you send €1000+ total.
+There are many ways to send money home but I have been using Aspora for a while. Aspora has been the best so far. It lets you send money on google rates, which is unprecedented. It's no advertisement by the way, just my personal experience. Your first transfer is free, and you earn €25 when you send €1000+ total.
 
 Use my code: 0FB1E77E or sign up using my link here: https://link.aspora.com/DYot/0FB1E77E.
 # Places to live

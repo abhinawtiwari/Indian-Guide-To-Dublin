@@ -138,8 +138,9 @@ Gurudwara
 [![Gurudwara](./gurudwara.png)](https://maps.app.goo.gl/q73Bnc4Q7kux98Tm6)
 
 # Food
-- Indian restaurants todo
-- Indian stores: Mini India in Westmoreland Street. More later.
+- Indian restaurants [here](https://www.google.com/search?sca_esv=a50ca17f88c08d65&sxsrf=AE3TifOSyigTmYd5nie5UWfjP14TIV0OLg:1764939677384&q=top+rated+indian+restaurant+dublin&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzIfObIm8s_qYP1XJGaXlVHiOJh-woaonjwDGq4FbQdRNXLeeXlj_Y0MfcX0YBCTrAKaz_qaHS5olMuBP204FQ5uQbZsb6OaWRW4qPOz9dTXCMpnWVUZ4ufIDIAEccb0tWPne92bxXefKRid9bH3fA8Q75f0C1GikTu7X2krWDiJeihNhg&udm=1&sa=X&ved=2ahUKEwjn2ZTUwKaRAxUqWUEAHVHAO7cQxKsJKAF6BAgVEAE&ictx=0&biw=1440&bih=812&dpr=2)
+
+- Indian stores: Mini India on Westmoreland Street. More later.
 
 # Leisure
 - Movies: Cineplex in the city center, Rathmines cinema complex

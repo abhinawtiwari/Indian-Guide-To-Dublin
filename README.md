@@ -35,7 +35,7 @@ For regular groceries, following are the go to places -
 Lidl, Aldi, Tesco, Spar, Centra etc.
 # Tech companies
 Google, Amazon, Microsoft, Stripe, Meta <br>
-Mastercard, AIB, PTSB <br>
+Mastercard, AIB, PTSB, Citibank <br>
 IBM <br>
 Pinterest, Sony Playstation, Workday, ServiceNow, Salesforce, JP Morgan
 
@@ -58,9 +58,14 @@ Common modes of commute are Dublin Bus, Luas, Dart, Commuter, Rail <br>
 
 There are long journey trains from Heuston station in Dublin, taking you to other cities like Galway.
 
+Checkout Dublin Public transport at https://www.dublinpublictransport.ie/ <br>
+Transport for Ireland network maps at https://www.transportforireland.ie/plan-a-journey/network-maps/
+
+You can have a look at the Dublin rail map — DART, Luas and key airport bus routes at https://www.dublinpublictransport.ie/dublin-train-map
+
 Cabs are very costly here but you can use the following on emergency or if you have an extra kidney to spare - Dublin Taxi, Uber, Bolt, Freenow.
 
-Importance of street names<br>
+## Importance of street names
 In India, we aren't used to street names so much. We have street names there, but I feel it's not part of our daily conversation the way it works in Dublin. In Dublin, people rely a lot on street names. Whenever they have to talk about a place, they refer to it by its street name. It takes a bit of time, but it's worth starting to refer to places by street names. For example, X restaurant is on Y street, and so on.
 
 # Travel

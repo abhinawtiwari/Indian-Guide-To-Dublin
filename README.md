@@ -77,11 +77,13 @@ As an Indian citizen on Irish residence permit card, you don't automatically get
 Embassy area: embassies of other countries are very conveniently located around Dublin 2 and 4.
   
 # Safety
+In Ireland there are two emergency numbers – 999 and 112. <br>
+These principal emergency services would be first responders in most emergency situations. <br>
+112 works in all EU countries from any phone, free of charge.
 ## Personal safety
 Places to avoid or be careful at - Tallaght, Citywest. <br>
 Bike theft: bike theft is unfortunate but common here. So, better to be safe than sorry. <br>
 Teenage laws: criminal laws for under 18 Irish citizens are usually loose. This is not a legal advice but I would stay away from them.<br>
-
 ## Road safety
 Ireland has similar road safety rules like India. It's also easier because Ireland also follows the stay on left side rule.
 
@@ -90,8 +92,13 @@ There are bike lanes if you cycle. There are safety standards for bikes too, lik
 If you are habituated to drive two-wheelers in India, Ireland's weather may not be the most suitable for it.
 
 International permit issued from India can help you drive a car here for a year. Beyond that, you need an Irish driving license.
+
+Sites to prep for driving theory test:
+https://dttstore.prometric.com/
+https://theorytest.ie/learning-app/
 # Geography
 Ireland has four seasons: winter, spring, summer, and autumn. For meteorological purposes, they are defined as follows: winter (December to February), spring (March to May), summer (June to August), and autumn (September to November). 
+## Day light saving
 
 # Health and fitness
 Gym, Swimming, jogging, home exercises <br>
@@ -117,14 +124,14 @@ Hospital delays: It's common to face delays in treatment at the hospitals here. 
 
 # Indian Embassy
 ## Address and contact: 
-Address: 69 Merrion Rd, Ballsbridge, Dublin-4, Co. Dublin, D04 ER85
+Address: 69 Merrion Rd, Ballsbridge, Dublin-4, Co. Dublin, D04 ER85 <br>
 Emergency contact: 0899423734, cons.dublin@mea.gov.in
 
 ## Events
 - Independence Day celebration
 
 ## Services
-- Passport renewal
+- Passport renewal: you can renew passport at the Indian embassy in Dublin. You can find the process on embassy website.
 
 # Indian community
 - Festivals/Events
@@ -144,6 +151,7 @@ Gurudwara
 
 # Leisure
 - Movies: Cineplex in the city center, Rathmines cinema complex
+- Bowling at Blanchardstown Shopping Centre - Leisureplex Blanchardstown
 
 # Buying a house
 Will add once I get 10 stars on this repo.

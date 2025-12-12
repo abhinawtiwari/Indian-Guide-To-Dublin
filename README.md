@@ -10,6 +10,7 @@ I have also created a video series on YouTube, available at https://www.youtube.
 # Good Universities for Master's
 Trinity College Dublin (TCD) and University College Dublin (UCD) are the best ones. <br> There are others such as 
 - National College of Ireland (NCI), 
+- DCU
 - TU Dublin, 
 - Dublin Business School
 - Griffith College, etc
@@ -22,6 +23,12 @@ Refer https://www.levels.fyi/t/software-engineer/locations/greater-dublin-area f
 There are many ways to send money home but I have been using Aspora for a while. Aspora has been the best so far. It lets you send money on google rates, which is unprecedented. It's no advertisement by the way, just my personal experience. Your first transfer is free, and you earn €25 when you send €1000+ total.
 
 Use my code: 0FB1E77E or sign up using my link here: https://link.aspora.com/DYot/0FB1E77E.
+# Day to day transactions
+You will miss UPI here but it is what it is. Revolut makes things convenient here though. It's handy for quick transactions - shopping, paying friends etc. You can download the app on your phone and set it up.
+# What to bring from India
+Ayurvedic, homeopathic medicines, your favorite hair and body products, body grooming electronics <br>
+Cooker, sabzi masala, snacks, chakla-belan <br>
+Also advisable to visit Dentist, and get an eye checkup in India.
 # Places to live
 South of Dublin is usually considered the nicest and safest to live. 
 
@@ -82,20 +89,27 @@ These principal emergency services would be first responders in most emergency s
 112 works in all EU countries from any phone, free of charge.
 ## Personal safety
 Places to avoid or be careful at - Tallaght, Citywest. <br>
-Bike theft: bike theft is unfortunate but common here. So, better to be safe than sorry. <br>
+Bike/phone theft: it is unfortunate but happens here. So, better to be safe than sorry. <br>
 Teenage laws: criminal laws for under 18 Irish citizens are usually loose. This is not a legal advice but I would stay away from them.<br>
+## Luas safety
+I have personally faced racism once on red line luas on a Sunday evening. That was on a tram going from City Center to Tallaght side. I have also heard about racist indicents against Indians on red line luas especially on weekends on trams going from City Center to Tallaght/Saggart. There is Luas helpline/SMS/whatsapp to report such incidents. Additionally, there are security personnels to ensure safety but they can't be everywhere. So, exercise caution and be safe.
 ## Road safety
 Ireland has similar road safety rules like India. It's also easier because Ireland also follows the stay on left side rule.
 
 There are bike lanes if you cycle. There are safety standards for bikes too, like lights, high-visibility vests, helmet etc.
-# Driving license
+### Driving license
 If you are habituated to drive two-wheelers in India, Ireland's weather may not be the most suitable for it.
 
 International permit issued from India can help you drive a car here for a year. Beyond that, you need an Irish driving license.
 
 Sites to prep for driving theory test:
-https://dttstore.prometric.com/
+https://dttstore.prometric.com/ <br>
 https://theorytest.ie/learning-app/
+
+Some youtube videos about the process to getting a full category B (Car) driving license: <br>
+https://youtu.be/XWehfgRnoyA?si=rOdDUxRj5BkASXei <br>
+https://youtu.be/pQzQWZ1_eBw?si=KUJtnTGyTSOioz-N <br>
+https://youtu.be/VqkAOClmpko?si=dJ8PeHVxPnL9omQo
 # Geography
 Ireland has four seasons: winter, spring, summer, and autumn. For meteorological purposes, they are defined as follows: winter (December to February), spring (March to May), summer (June to August), and autumn (September to November). 
 ## Day light saving

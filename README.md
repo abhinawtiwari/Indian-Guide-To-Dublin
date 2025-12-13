@@ -25,6 +25,8 @@ There are many ways to send money home but I have been using Aspora for a while.
 Use my code: 0FB1E77E or sign up using my link here: https://link.aspora.com/DYot/0FB1E77E.
 # Day to day transactions
 You will miss UPI here but it is what it is. Revolut makes things convenient here though. It's handy for quick transactions - shopping, paying friends etc. You can download the app on your phone and set it up.
+# Bank account
+AIB, BoI, PTSB are some popular banks to consider for account opening.
 # What to bring from India
 Ayurvedic, homeopathic medicines, your favorite hair and body products, body grooming electronics <br>
 Cooker, sabzi masala, snacks, chakla-belan <br>
@@ -46,7 +48,11 @@ Mastercard, AIB, PTSB, Citibank <br>
 IBM <br>
 Pinterest, Sony Playstation, Workday, ServiceNow, Salesforce, JP Morgan
 
-There are many more. I just listed a few I have come across closely.
+There are many more. I just listed a few I have come across closely. From the list, I have worked at <b>Mastercard</b> and <b>Amazon</b>. I think working at a Big tech can be a game-changer for your career. It was for me. The challenges and scale you deal with on a daily basis teaches you a lot and sets you up for success in your career ahead. <br>  
+
+Ireland is a small country compared to India, but there are a plenty of Big techs here. The access to the big techs, I feel, is invaluable. It's not this easy to get a chance to get into such companies in India, due to the sheer competition. So, I would advise you to benefit from the opportunity and interview at your dream workplace.
+
+In my free time, I teach and mentor candidates for Big tech Interviews prep. So, you may feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/abhinawtiwari/) in your prep journey. I wish you all the best for your dream job and life.
 # Visa 
 ## Visa progression
 Master's route: Stamp 2 -> Stamp 1G -> Stamp 1 -> Stamp 4
@@ -102,7 +108,7 @@ If you are habituated to drive two-wheelers in India, Ireland's weather may not 
 
 International permit issued from India can help you drive a car here for a year. Beyond that, you need an Irish driving license.
 
-Sites to prep for driving theory test:
+Sites to prep for driving theory test: <br>
 https://dttstore.prometric.com/ <br>
 https://theorytest.ie/learning-app/
 

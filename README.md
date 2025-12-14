@@ -43,7 +43,7 @@ https://www.daft.ie/ for house hunting.
 For regular groceries, following are the go to places -
 Lidl, Aldi, Tesco, Spar, Centra etc.
 # Tech companies
-Google, Amazon, Microsoft, Stripe, Meta <br>
+Google, Amazon, Microsoft, Stripe, Meta, Apple <br>
 Mastercard, AIB, PTSB, Citibank <br>
 IBM <br>
 Pinterest, Sony Playstation, Workday, ServiceNow, Salesforce, JP Morgan
@@ -175,3 +175,6 @@ Gurudwara
 
 # Buying a house
 Will add once I get 10 stars on this repo.
+
+# FAQs
+Send me your questions so I can add here. You can send me on [LinkedIn](https://www.linkedin.com/in/abhinawtiwari/).
